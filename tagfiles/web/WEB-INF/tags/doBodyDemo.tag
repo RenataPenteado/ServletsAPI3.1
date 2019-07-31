@@ -1,0 +1,1 @@
+<jsp:doBody var="variable" scope="session"/>

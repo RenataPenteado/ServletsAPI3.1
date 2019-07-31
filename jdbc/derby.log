@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 07 17:44:52 BST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016a-932f-0092-000004df2aa0 
+on database directory C:\Users\Renata\Documents\NetBeansProjects\servletjsp2-apps\chapter14\jdbc\daotest with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_161/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Renata\Documents\NetBeansProjects\servletjsp2-apps\chapter14\jdbc
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
